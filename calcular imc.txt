@@ -1,0 +1,19 @@
+algoritmo "Primeiro Programa"
+
+var
+   altura, massa, imc:real
+
+inicio
+
+   escreval("qual sua altura? ")
+   leia(altura)
+   escreval("qual o seu peso?")
+   leia(massa)
+   imc <- massa / (altura ^ 2 )
+   escreval("imc e: ", imc)
+   se (imc >= 18.5) e (imc<=25) entao 
+   escreval("que otimo,voce esta no peso ideal")
+   senao
+   escreva("voce nao esta na faixa de peso ideal")
+   fimse
+fimalgoritmo

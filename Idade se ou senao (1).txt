@@ -1,0 +1,18 @@
+algoritmo "Primeiro Programa"
+
+var
+   ano, nasc, idade:inteiro
+
+inicio
+   escrevaL("Em que ano estamos?")
+   leia(ano)
+   escreval("em que ano voce nasceu?")
+   leia(nasc)
+   idade <- ano - nasc
+   escreval("voce tem ", idade )
+   se (idade >=18 ) entao 
+   escreval("voce ja e de maior")
+   senao 
+   escreval("voce ainda e de menor")
+   fimse
+   fimalgoritmo

@@ -1,0 +1,20 @@
+algoritmo "carteira de motorista"
+
+var
+   ano, nasc, idade: inteiro
+
+inicio
+
+   escreval("em que ano estamos? ")
+   leia(ano)
+   escreval("em que ano voce nasceu?")
+   leia(nasc)
+   idade <- ano - nasc 
+   escreval("sua idade e: ", idade)
+   se (idade >=18) entao
+   escreval("voce ja pode tirar sua habilitação")
+   senao
+   escreval(" voce nao pode tirar sua habilitação")
+   fimse
+
+fimalgoritmo
