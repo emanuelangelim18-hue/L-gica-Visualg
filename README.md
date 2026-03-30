@@ -7,12 +7,11 @@ Bem-vindo ao meu repositório de estudos! Aqui documento minha jornada na **Enge
 Atualmente, este repositório está organizado em duas frentes:
 
 * **Lógica de Programação (Visualg):** Meus primeiros algoritmos onde aprendi os fundamentos de estruturas de decisão (`SE/ENTÃO`), repetição e variáveis.
-* **Linguagem C (Em andamento):** Transição da lógica visual para a sintaxe robusta do C, focando em manipulação de memória, tipos de dados e eficiência.
+
 
 ##  Tecnologias e Ferramentas
 
 * **Visualg 3.0** (Fundamentos de Lógica)
-* **Linguagem C** (Desenvolvimento Estruturado)
 * **Git & GitHub** (Versionamento de Código)
 
 ##  Objetivos Atuais
